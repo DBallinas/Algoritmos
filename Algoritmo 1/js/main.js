@@ -1,4 +1,4 @@
-//1 Solicitar 3 numeros (rango1-100) y definir el mayor
+//1.- Solicitar 3 numeros (rango1-100) y definir el mayor
 
 let a=prompt("Ingresa el primero numero (1-100):", "" );
 let b=prompt("Ingresa el segundo numero (1-100):", "" );
